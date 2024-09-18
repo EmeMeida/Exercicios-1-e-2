@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cpf",
+            "request": "launch",
+            "mainClass": "Cpf",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
+            "name": "corrida",
+            "request": "launch",
+            "mainClass": "corrida",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
+            "name": "Ashorassao",
+            "request": "launch",
+            "mainClass": "Ashorassao",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
+            "name": "CalculoSalario",
+            "request": "launch",
+            "mainClass": "CalculoSalario",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
+            "name": "Emprestimo",
+            "request": "launch",
+            "mainClass": "Emprestimo",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
+            "name": "Exercicio01",
+            "request": "launch",
+            "mainClass": "Exercicio01",
+            "projectName": "Exercicio Git_6d26db69"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
